@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/CMakeFiles/SymRuntime"
+		},
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/CMakeFiles/SymRuntime.rule"
+		},
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/CMakeFiles/SymRuntime-complete.rule"
+		},
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-install.rule"
+		},
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-mkdir.rule"
+		},
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-download.rule"
+		},
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-update.rule"
+		},
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-patch.rule"
+		},
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-configure.rule"
+		},
+		{
+			"file" : "/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"SymRuntime"
+		],
+		"name" : "SymRuntime"
+	}
+}

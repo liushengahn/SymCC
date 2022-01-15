@@ -1,0 +1,13 @@
+# Target labels
+ SymRuntime
+# Source files and their labels
+/data/SymCC/symcc/build_qsym/CMakeFiles/SymRuntime
+/data/SymCC/symcc/build_qsym/CMakeFiles/SymRuntime.rule
+/data/SymCC/symcc/build_qsym/CMakeFiles/SymRuntime-complete.rule
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-install.rule
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-mkdir.rule
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-download.rule
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-update.rule
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-patch.rule
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-configure.rule
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-stamp/SymRuntime-build.rule

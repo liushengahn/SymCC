@@ -1,0 +1,821 @@
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1944 }
+[STAT] SMT: { "solving_time": 823 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1863 }
+[STAT] SMT: { "solving_time": 1981 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1981, "total_time": 5224 }
+[STAT] SMT: { "solving_time": 2503 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2503, "total_time": 7136 }
+[STAT] SMT: { "solving_time": 3080 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1985 }
+[STAT] SMT: { "solving_time": 1912 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1912, "total_time": 5249 }
+[STAT] SMT: { "solving_time": 3339 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3339, "total_time": 7946 }
+[STAT] SMT: { "solving_time": 3869 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3869, "total_time": 9834 }
+[STAT] SMT: { "solving_time": 4471 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2308 }
+[STAT] SMT: { "solving_time": 720 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2003 }
+[STAT] SMT: { "solving_time": 1921 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1921, "total_time": 5261 }
+[STAT] SMT: { "solving_time": 2438 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2438, "total_time": 7143 }
+[STAT] SMT: { "solving_time": 8889 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 8889, "total_time": 14517 }
+[STAT] SMT: { "solving_time": 9256 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2265 }
+[STAT] SMT: { "solving_time": 913 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2213 }
+[STAT] SMT: { "solving_time": 1890 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1890, "total_time": 5420 }
+[STAT] SMT: { "solving_time": 2409 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2409, "total_time": 7299 }
+[STAT] SMT: { "solving_time": 3003 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1518 }
+[STAT] SMT: { "solving_time": 1915 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1915, "total_time": 4766 }
+[STAT] SMT: { "solving_time": 3288 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3288, "total_time": 7423 }
+[STAT] SMT: { "solving_time": 4420 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2341 }
+[STAT] SMT: { "solving_time": 1885 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1885, "total_time": 5572 }
+[STAT] SMT: { "solving_time": 2413 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2413, "total_time": 7477 }
+[STAT] SMT: { "solving_time": 7979 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7979, "total_time": 13952 }
+[STAT] SMT: { "solving_time": 8983 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+[STAT] SMT: { "solving_time": 8983, "total_time": 15871 }
+[STAT] SMT: { "solving_time": 9342 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000004
+[STAT] SMT: { "solving_time": 9342, "total_time": 17165 }
+[STAT] SMT: { "solving_time": 9743 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000005
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1949 }
+[STAT] SMT: { "solving_time": 2428 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2428, "total_time": 5930 }
+[STAT] SMT: { "solving_time": 3597 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3597, "total_time": 8193 }
+[STAT] SMT: { "solving_time": 4038 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 4038, "total_time": 9778 }
+[STAT] SMT: { "solving_time": 8879 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1576 }
+[STAT] SMT: { "solving_time": 656 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1510 }
+[STAT] SMT: { "solving_time": 1859 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2179 }
+[STAT] SMT: { "solving_time": 2253 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2253, "total_time": 5721 }
+[STAT] SMT: { "solving_time": 2754 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2754, "total_time": 7556 }
+[STAT] SMT: { "solving_time": 8322 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 8322, "total_time": 13986 }
+[STAT] SMT: { "solving_time": 8659 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1690 }
+[STAT] SMT: { "solving_time": 2033 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2033, "total_time": 5151 }
+[STAT] SMT: { "solving_time": 2583 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2583, "total_time": 6927 }
+[STAT] SMT: { "solving_time": 3002 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1537 }
+[STAT] SMT: { "solving_time": 1941 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1941, "total_time": 4822 }
+[STAT] SMT: { "solving_time": 3319 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3319, "total_time": 7486 }
+[STAT] SMT: { "solving_time": 3833 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3833, "total_time": 9362 }
+[STAT] SMT: { "solving_time": 4229 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1738 }
+[STAT] SMT: { "solving_time": 1888 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1888, "total_time": 4970 }
+[STAT] SMT: { "solving_time": 2404 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2404, "total_time": 6838 }
+[STAT] SMT: { "solving_time": 2979 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2299 }
+[STAT] SMT: { "solving_time": 2140 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2140, "total_time": 5791 }
+[STAT] SMT: { "solving_time": 3494 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3494, "total_time": 8416 }
+[STAT] SMT: { "solving_time": 4006 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 4006, "total_time": 10289 }
+[STAT] SMT: { "solving_time": 4599 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2270 }
+[STAT] SMT: { "solving_time": 642 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2271 }
+[STAT] SMT: { "solving_time": 1988 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1988, "total_time": 5611 }
+[STAT] SMT: { "solving_time": 2505 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2505, "total_time": 7495 }
+[STAT] SMT: { "solving_time": 8056 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 8056, "total_time": 13932 }
+[STAT] SMT: { "solving_time": 8967 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+[STAT] SMT: { "solving_time": 8967, "total_time": 15740 }
+[STAT] SMT: { "solving_time": 9867 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000004
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1508 }
+[STAT] SMT: { "solving_time": 638 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1510 }
+[STAT] SMT: { "solving_time": 1894 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1497 }
+[STAT] SMT: { "solving_time": 642 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1536 }
+[STAT] SMT: { "solving_time": 1863 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1863, "total_time": 4750 }
+[STAT] SMT: { "solving_time": 2393 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2393, "total_time": 6654 }
+[STAT] SMT: { "solving_time": 7299 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7299, "total_time": 12448 }
+[STAT] SMT: { "solving_time": 8220 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+[STAT] SMT: { "solving_time": 8220, "total_time": 14253 }
+[STAT] SMT: { "solving_time": 8568 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000004
+[STAT] SMT: { "solving_time": 8568, "total_time": 15515 }
+[STAT] SMT: { "solving_time": 12311 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000005
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1544 }
+[STAT] SMT: { "solving_time": 662 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1507 }
+[STAT] SMT: { "solving_time": 1901 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1901, "total_time": 4747 }
+[STAT] SMT: { "solving_time": 3286 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3286, "total_time": 7411 }
+[STAT] SMT: { "solving_time": 3797 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3797, "total_time": 9266 }
+[STAT] SMT: { "solving_time": 4200 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2085 }
+[STAT] SMT: { "solving_time": 669 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2119 }
+[STAT] SMT: { "solving_time": 2535 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2535, "total_time": 6009 }
+[STAT] SMT: { "solving_time": 2986 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2986, "total_time": 7637 }
+[STAT] SMT: { "solving_time": 3477 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1930 }
+[STAT] SMT: { "solving_time": 2343 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2343, "total_time": 5843 }
+[STAT] SMT: { "solving_time": 2789 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2789, "total_time": 7445 }
+[STAT] SMT: { "solving_time": 7876 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7876, "total_time": 13620 }
+[STAT] SMT: { "solving_time": 9037 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+[STAT] SMT: { "solving_time": 9037, "total_time": 15802 }
+[STAT] SMT: { "solving_time": 9330 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000004
+[STAT] SMT: { "solving_time": 9330, "total_time": 16872 }
+[STAT] SMT: { "solving_time": 9670 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000005
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1637 }
+[STAT] SMT: { "solving_time": 2009 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2009, "total_time": 5007 }
+[STAT] SMT: { "solving_time": 3339 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3339, "total_time": 7623 }
+[STAT] SMT: { "solving_time": 3862 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3862, "total_time": 9305 }
+[STAT] SMT: { "solving_time": 4253 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1775 }
+[STAT] SMT: { "solving_time": 1939 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1939, "total_time": 5069 }
+[STAT] SMT: { "solving_time": 2453 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2453, "total_time": 6946 }
+[STAT] SMT: { "solving_time": 3068 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1834 }
+[STAT] SMT: { "solving_time": 830 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1908 }
+[STAT] SMT: { "solving_time": 837 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1868 }
+[STAT] SMT: { "solving_time": 2347 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2347, "total_time": 5797 }
+[STAT] SMT: { "solving_time": 2785 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2785, "total_time": 7374 }
+[STAT] SMT: { "solving_time": 7856 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7856, "total_time": 13507 }
+[STAT] SMT: { "solving_time": 8280 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1678 }
+[STAT] SMT: { "solving_time": 2050 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2050, "total_time": 5152 }
+[STAT] SMT: { "solving_time": 3460 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3460, "total_time": 7611 }
+[STAT] SMT: { "solving_time": 3830 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3830, "total_time": 8966 }
+[STAT] SMT: { "solving_time": 4246 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1571 }
+[STAT] SMT: { "solving_time": 1887 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1649 }
+[STAT] SMT: { "solving_time": 1962 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1962, "total_time": 5051 }
+[STAT] SMT: { "solving_time": 2530 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2530, "total_time": 7087 }
+[STAT] SMT: { "solving_time": 7290 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7290, "total_time": 12826 }
+[STAT] SMT: { "solving_time": 7670 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2309 }
+[STAT] SMT: { "solving_time": 1972 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1972, "total_time": 5608 }
+[STAT] SMT: { "solving_time": 2509 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2509, "total_time": 7516 }
+[STAT] SMT: { "solving_time": 7824 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7824, "total_time": 13705 }
+[STAT] SMT: { "solving_time": 8193 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1523 }
+[STAT] SMT: { "solving_time": 646 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1591 }
+[STAT] SMT: { "solving_time": 1959 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1959, "total_time": 4912 }
+[STAT] SMT: { "solving_time": 2497 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2497, "total_time": 6844 }
+[STAT] SMT: { "solving_time": 7373 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7373, "total_time": 12655 }
+[STAT] SMT: { "solving_time": 8384 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1776 }
+[STAT] SMT: { "solving_time": 829 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1835 }
+[STAT] SMT: { "solving_time": 2172 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2110 }
+[STAT] SMT: { "solving_time": 950 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2302 }
+[STAT] SMT: { "solving_time": 894 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2274 }
+[STAT] SMT: { "solving_time": 850 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1997 }
+[STAT] SMT: { "solving_time": 657 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1724 }
+[STAT] SMT: { "solving_time": 1958 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1958, "total_time": 5012 }
+[STAT] SMT: { "solving_time": 2471 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2471, "total_time": 6908 }
+[STAT] SMT: { "solving_time": 3052 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1533 }
+[STAT] SMT: { "solving_time": 1894 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1894, "total_time": 4776 }
+[STAT] SMT: { "solving_time": 2419 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2419, "total_time": 6663 }
+[STAT] SMT: { "solving_time": 7679 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7679, "total_time": 12844 }
+[STAT] SMT: { "solving_time": 8041 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1526 }
+[STAT] SMT: { "solving_time": 662 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1540 }
+[STAT] SMT: { "solving_time": 1944 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1944, "total_time": 4825 }
+[STAT] SMT: { "solving_time": 3329 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3329, "total_time": 7488 }
+[STAT] SMT: { "solving_time": 3843 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3843, "total_time": 9366 }
+[STAT] SMT: { "solving_time": 4263 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2339 }
+[STAT] SMT: { "solving_time": 2070 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2295 }
+[STAT] SMT: { "solving_time": 1931 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1931, "total_time": 5553 }
+[STAT] SMT: { "solving_time": 2447 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2447, "total_time": 7421 }
+[STAT] SMT: { "solving_time": 3038 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1604 }
+[STAT] SMT: { "solving_time": 1946 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1946, "total_time": 4962 }
+[STAT] SMT: { "solving_time": 3389 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3389, "total_time": 7741 }
+[STAT] SMT: { "solving_time": 4378 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1696 }
+[STAT] SMT: { "solving_time": 668 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1506 }
+[STAT] SMT: { "solving_time": 1867 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1867, "total_time": 4691 }
+[STAT] SMT: { "solving_time": 2382 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2382, "total_time": 6560 }
+[STAT] SMT: { "solving_time": 2971 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2099 }
+[STAT] SMT: { "solving_time": 2457 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1484 }
+[STAT] SMT: { "solving_time": 1840 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1840, "total_time": 4665 }
+[STAT] SMT: { "solving_time": 3214 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3214, "total_time": 7352 }
+[STAT] SMT: { "solving_time": 4567 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2097 }
+[STAT] SMT: { "solving_time": 1898 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1898, "total_time": 5347 }
+[STAT] SMT: { "solving_time": 3277 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3277, "total_time": 7999 }
+[STAT] SMT: { "solving_time": 3790 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3790, "total_time": 9891 }
+[STAT] SMT: { "solving_time": 4377 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1660 }
+[STAT] SMT: { "solving_time": 651 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1911 }
+[STAT] SMT: { "solving_time": 1898 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1898, "total_time": 5149 }
+[STAT] SMT: { "solving_time": 3272 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3272, "total_time": 7807 }
+[STAT] SMT: { "solving_time": 3793 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3793, "total_time": 9682 }
+[STAT] SMT: { "solving_time": 4371 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1976 }
+[STAT] SMT: { "solving_time": 1860 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1572 }
+[STAT] SMT: { "solving_time": 681 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1545 }
+[STAT] SMT: { "solving_time": 1882 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1467 }
+[STAT] SMT: { "solving_time": 639 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1622 }
+[STAT] SMT: { "solving_time": 1881 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1881, "total_time": 4847 }
+[STAT] SMT: { "solving_time": 2397 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2397, "total_time": 6727 }
+[STAT] SMT: { "solving_time": 7664 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7664, "total_time": 12871 }
+[STAT] SMT: { "solving_time": 8009 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1522 }
+[STAT] SMT: { "solving_time": 645 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1803 }
+[STAT] SMT: { "solving_time": 650 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1552 }
+[STAT] SMT: { "solving_time": 1989 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1989, "total_time": 4945 }
+[STAT] SMT: { "solving_time": 3431 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3431, "total_time": 7716 }
+[STAT] SMT: { "solving_time": 3852 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3852, "total_time": 9116 }
+[STAT] SMT: { "solving_time": 4268 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1504 }
+[STAT] SMT: { "solving_time": 644 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1498 }
+[STAT] SMT: { "solving_time": 636 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1508 }
+[STAT] SMT: { "solving_time": 664 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1519 }
+[STAT] SMT: { "solving_time": 651 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1726 }
+[STAT] SMT: { "solving_time": 778 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1793 }
+[STAT] SMT: { "solving_time": 2314 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2022 }
+[STAT] SMT: { "solving_time": 2436 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2307 }
+[STAT] SMT: { "solving_time": 942 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2296 }
+[STAT] SMT: { "solving_time": 687 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2090 }
+[STAT] SMT: { "solving_time": 1918 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1918, "total_time": 5339 }
+[STAT] SMT: { "solving_time": 2431 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2431, "total_time": 7246 }
+[STAT] SMT: { "solving_time": 3016 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1837 }
+[STAT] SMT: { "solving_time": 845 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1968 }
+[STAT] SMT: { "solving_time": 2480 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2239 }
+[STAT] SMT: { "solving_time": 883 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1511 }
+[STAT] SMT: { "solving_time": 1924 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1924, "total_time": 4801 }
+[STAT] SMT: { "solving_time": 2439 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2439, "total_time": 6677 }
+[STAT] SMT: { "solving_time": 7387 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7387, "total_time": 12555 }
+[STAT] SMT: { "solving_time": 7746 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1537 }
+[STAT] SMT: { "solving_time": 1885 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1885, "total_time": 4746 }
+[STAT] SMT: { "solving_time": 2427 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2427, "total_time": 6646 }
+[STAT] SMT: { "solving_time": 6838 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 6838, "total_time": 11920 }
+[STAT] SMT: { "solving_time": 7185 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1904 }
+[STAT] SMT: { "solving_time": 2321 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2321, "total_time": 5912 }
+[STAT] SMT: { "solving_time": 2762 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 2762, "total_time": 7542 }
+[STAT] SMT: { "solving_time": 7552 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 7552, "total_time": 13425 }
+[STAT] SMT: { "solving_time": 7988 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1794 }
+[STAT] SMT: { "solving_time": 2178 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2178, "total_time": 5527 }
+[STAT] SMT: { "solving_time": 3606 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3606, "total_time": 7991 }
+[STAT] SMT: { "solving_time": 4024 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 4024, "total_time": 9502 }
+[STAT] SMT: { "solving_time": 4489 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1904 }
+[STAT] SMT: { "solving_time": 643 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1540 }
+[STAT] SMT: { "solving_time": 667 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1600 }
+[STAT] SMT: { "solving_time": 1936 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1936, "total_time": 4888 }
+[STAT] SMT: { "solving_time": 3315 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3315, "total_time": 7547 }
+[STAT] SMT: { "solving_time": 4673 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 2169 }
+[STAT] SMT: { "solving_time": 2321 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 2321, "total_time": 5789 }
+[STAT] SMT: { "solving_time": 3651 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3651, "total_time": 8332 }
+[STAT] SMT: { "solving_time": 4147 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 4147, "total_time": 10153 }
+[STAT] SMT: { "solving_time": 4702 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1583 }
+[STAT] SMT: { "solving_time": 1903 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1525 }
+[STAT] SMT: { "solving_time": 668 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+This is SymCC running with the QSYM backend
+Reading program input until EOF (use Ctrl+D in a terminal)...
+[STAT] SMT: { "solving_time": 0, "total_time": 1540 }
+[STAT] SMT: { "solving_time": 1921 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000000
+[STAT] SMT: { "solving_time": 1921, "total_time": 4829 }
+[STAT] SMT: { "solving_time": 3349 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000001
+[STAT] SMT: { "solving_time": 3349, "total_time": 7551 }
+[STAT] SMT: { "solving_time": 3875 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000002
+[STAT] SMT: { "solving_time": 3875, "total_time": 9346 }
+[STAT] SMT: { "solving_time": 8346 }
+[INFO] New testcase: /tmp/tmp.sXX02XjCm8/symcc_out/000003

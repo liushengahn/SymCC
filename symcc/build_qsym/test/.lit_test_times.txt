@@ -1,0 +1,16 @@
+6.750894e-02 arrays.c
+6.745577e-02 bswap.c
+9.772491e-02 file_input.c
+7.520795e-02 floats.c
+1.031008e-01 globals.c
+8.327007e-02 if.c
+7.769418e-02 integers.c
+8.049965e-02 large_alloc.c
+9.052300e-02 loop.c
+8.205700e-02 memcpy.c
+7.043934e-02 pointers.c
+6.135511e-02 read.c
+2.661867e-01 regression/cxa_vector.ll
+7.227659e-02 strings.c
+8.686709e-02 structs.c
+6.808996e-02 switch.c

@@ -1,0 +1,8 @@
+/data/SymCC/symcc/build_qsym/CMakeFiles/rebuild_cache.dir
+/data/SymCC/symcc/build_qsym/CMakeFiles/edit_cache.dir
+/data/SymCC/symcc/build_qsym/CMakeFiles/Symbolize.dir
+/data/SymCC/symcc/build_qsym/CMakeFiles/intrinsics_gen.dir
+/data/SymCC/symcc/build_qsym/CMakeFiles/SymRuntime.dir
+/data/SymCC/symcc/build_qsym/test/CMakeFiles/rebuild_cache.dir
+/data/SymCC/symcc/build_qsym/test/CMakeFiles/edit_cache.dir
+/data/SymCC/symcc/build_qsym/test/CMakeFiles/check.dir

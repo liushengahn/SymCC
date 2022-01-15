@@ -1,0 +1,6 @@
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-build/CMakeFiles/rebuild_cache.dir
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-build/CMakeFiles/edit_cache.dir
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-build/qsym_backend/CMakeFiles/rebuild_cache.dir
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-build/qsym_backend/CMakeFiles/edit_cache.dir
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-build/qsym_backend/CMakeFiles/SymRuntime.dir
+/data/SymCC/symcc/build_qsym/SymRuntime-prefix/src/SymRuntime-build/qsym_backend/CMakeFiles/intrinsics_gen.dir
